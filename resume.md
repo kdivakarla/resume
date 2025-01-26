@@ -10,7 +10,7 @@
 
 ## Experience
 **Undergraduate Researcher** Mines Carbon Capture Innovation Center (MCIC)
-[Click here to learn more about our lab](crusher.mines.edu)
+[Click here to learn more about our lab](crusher_site.html)
 - Observing the production of fines after CO2 injection.
 - Working with peizo crystals to observe changes in seismic waves through the injection process, thus informing changes in elastic moduli.
 
